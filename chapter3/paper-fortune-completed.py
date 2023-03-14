@@ -14,7 +14,7 @@ choice = ""
 while choice != "stop":
     print("")
     print("Welcome To Your Paper Fortune!")
-    choice = input("Enter a color and press the enter key (red, blue, green, orange): ")
+    choice = input("Enter a color (red, blue, green, orange) then press the enter key: ")
 
     if choice == "stop":
         break
